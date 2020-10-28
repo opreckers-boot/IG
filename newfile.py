@@ -1,3 +1,4 @@
+pip install instagram-explore
 import instagram_exploreas ie
 import json
 result = ie.user: nama = input("Masukkan nama IG: ")
